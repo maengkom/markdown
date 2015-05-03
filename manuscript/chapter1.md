@@ -7,6 +7,7 @@
 - [Session Drivers](#session-drivers)
 
 <a name="configuration"></a>
+
 ## Configuration
 
 Since HTTP driven applications are stateless, sessions provide a way to store information about the user across requests. Laravel ships with a variety of session back-ends available for use through a clean, unified API. Support for popular back-ends such as [Memcached](http://memcached.org), [Redis](http://redis.io), and databases is included out of the box.
